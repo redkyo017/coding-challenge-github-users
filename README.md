@@ -1,6 +1,6 @@
 # Heftybyte At Home Coding Challenge
 
-#### Challenge:  Github User List
+### Challenge:  Github User List
 
 ### Focus: Javascript
 ### Time: 2hrs
