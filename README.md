@@ -65,5 +65,6 @@ The challenge may seem simple, but keep in mind we are judging the following fac
 - Code Organization (excellent code structure)
 - Proficiency with JavaScript (modern features)
 
+Bring your best talent to this task! We care much more about these factors than we do about 100% functionality.
 
 **Good Luck!**
