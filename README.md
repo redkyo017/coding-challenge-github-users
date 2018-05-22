@@ -68,3 +68,9 @@ The challenge may seem simple, but keep in mind we are judging the following fac
 Bring your best talent to this task! We care much more about these factors than we do about 100% functionality.
 
 **Good Luck!**
+
+
+### How to run
+* npm install
+* npm start
+* run localhost:6001 on browser
