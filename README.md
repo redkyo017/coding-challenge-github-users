@@ -73,4 +73,4 @@ Bring your best talent to this task! We care much more about these factors than 
 ### How to run
 * npm install
 * npm start
-* run localhost:6001 on browser
+* run localhost:3000 on browser
